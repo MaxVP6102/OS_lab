@@ -1,3 +1,4 @@
+# Shell program to check whether the entered character is a lower case, upper case, digit or special character
 echo "Enter any character"
 read char
 case $char in
